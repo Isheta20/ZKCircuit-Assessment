@@ -31,7 +31,6 @@ template ZkCircuit () {
     orGate.b <-- y;
     q <-- orGate.out;
     
-   
 }
 template AND() {
     signal input a;
